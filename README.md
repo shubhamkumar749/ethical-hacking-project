@@ -21,7 +21,7 @@ It covers a complete ethical hacking lifecycle: scanning, enumeration, exploitat
 
 ## 📂 Project Contents
 
-- 📄 `CEH_Project_Swapnil.pdf` — Full report with screenshots and command outputs  
+- 📄 `Simulated_Ethical_Hacking_Project_Complete.pdf` — Full report with screenshots and command outputs  
 - 🖼️ `Screenshots/` — Real-time evidence of network attacks and defenses  
 
 ---
@@ -105,19 +105,19 @@ nmap -v -O 192.168.1.10
 
 **Command Used:**
 ```bash
-adduser swapnil
+adduser shubham
 ```
 
 **Results:**
 
 In `/etc/passwd`:
 ```
-swapnil:x:1001:1001:/home/swapnil:/bin/bash
+swapnil:x:1001:1001:/home/shubham:/bin/bash
 ```
 
 In `/etc/shadow`:
 ```
-swapnil:$1$8nWuasXV$pk6ZABfqT9NoHv1pPX8Rj.
+shubham:$1$8nWuasXV$pk6ZABfqT9NoHv1pPX8Rj.
 ```
 
 ---
@@ -131,7 +131,7 @@ john hashes.txt
 john hashes.txt --show
 ```
 
-✅ **Cracked Password:** `hello`
+✅ **Cracked Password:** `admin`
 
 ---
 
