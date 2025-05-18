@@ -1,9 +1,9 @@
 # ethical-hacking-project
 # 🛡️ Ethical Hacking Project: Simulating Real-World Network Exploitation and Defense
 
-**Author:** Swapnil  
-**Semester:** 6th  
-**Section:** CY6
+**Author:** Shubham  
+**Semester:** 4th  
+**Section:** 4E
 
 ---
 
